@@ -15,3 +15,6 @@ Response:
 {
   "enabled": false
 }
+
+## Why I built this
+I built this project to better understand feature flag systems and experimentation infrastructure used in large-scale applications.
